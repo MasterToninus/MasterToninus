@@ -23,10 +23,24 @@ body, h1, h2, h3, h4, h5, h6 {
   background-size: cover;
 }
 
+.intro-header-subpage {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  color: #f8f8f8;
+  background-color:#33475b;
+}
+
 .intro-message {
   position: relative;
   padding-top: 20%;
   padding-bottom: 20%;
+}
+
+.intro-message-subpage {
+  position: relative;
+  padding-top: 5%;
+  padding-bottom: 0%;
 }
 
 .intro-message>h1 {
