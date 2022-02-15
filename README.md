@@ -14,7 +14,7 @@ programming languages *(C++, Java)* and high-performance computing *(Cuda)*.
 <pre>
 </pre>
 
-- :dart: I will be on the job market from October 2022.
+- :dart: I will be on the job market from October 2023.
 
 
 
