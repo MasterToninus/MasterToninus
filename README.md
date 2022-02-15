@@ -11,8 +11,8 @@ programming languages *(C++, Java)* and high-performance computing *(Cuda)*.
 
 - :mailbox: How to reach me: [dmf.unicatt.it/miti/](https://dmf.unicatt.it/miti/)
 
-<pre>
-</pre>
+-
+-
 
 - :dart: I will be on the job market from October 2023.
 
