@@ -14,7 +14,7 @@ programming languages *(C++, Java)* and high-performance computing *(Cuda)*.
 -
 -
 
-- :dart: I will be on the job market from October 2023.
+- :dart: I will be on the job market from February 2026.
 
 
 
