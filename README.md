@@ -1,6 +1,6 @@
 ### Hi there :suspect:
 I'm an MSCA postdoctoral fellow at the [Università di Roma "la Sapienza"](https://dipartimenti.unicatt.it/dmf](https://www.mat.uniroma1.it/persone/miti) in Rome, Italy.\
-My research project is founded by the [CIVIS3i](https://civis3i.univ-amu.fr/en/antonio-michele-miti) H2020-cofund.\
+My research project is founded by the [CIVIS3i](https://civis3i.univ-amu.fr/en/antonio-michele-miti) H2020-cofund.
 
 - :microscope: My research interests are at the intersection of *differential geometry*, *higher structures*, and *mathematical physics*. 
 In particular, I am interested in *multisymplectic manifolds*, *symmetries* and *algebraic structures up to homotopy* in the broad sense.
