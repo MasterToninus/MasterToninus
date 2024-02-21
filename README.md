@@ -9,7 +9,7 @@ programming languages *(C++, Java)* and high-performance computing *(Cuda)*.
 
 - :seedling: I cultivate the wishful side-project of learning *Haskell* in conjunction with *(higher) category theory*.
 
-- :mailbox: How to reach me: [dmf.unicatt.it/miti/](https://dmf.unicatt.it/miti/)
+- :mailbox: How to reach me: [www.antoniomiti.it](https://www.antoniomiti.it/)
 
 -
 -
