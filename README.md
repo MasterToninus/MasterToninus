@@ -1,27 +1,39 @@
-### Hi there :suspect:
-I'm a [CIVIS3i](https://civis3i.univ-amu.fr/en/antonio-michele-miti) Postdoctoral Fellow (MSCA-H2020 cofund) at [Sapienza Università di Roma](https://www.mat.uniroma1.it/persone/miti) in Rome, Italy.
+### Hi there! :suspect:
 
-- :microscope: My research interests are at the intersection of *differential geometry*, *higher structures*, and *mathematical physics*. 
-In particular, I am interested in *multisymplectic manifolds*, *symmetries* and *algebraic structures up to homotopy* in the broad sense.
+I am a [CIVIS3i](https://civis3i.univ-amu.fr/en/antonio-michele-miti) Postdoctoral Fellow (MSCA-H2020 COFUND) at [Sapienza Università di Roma](https://www.mat.uniroma1.it/persone/miti) in Rome, Italy.
 
-- :computer: Coding-wise, I have a tiny[^1] experience in *object-oriented* 
-programming languages *(C++, Java)* and high-performance computing *(Cuda)*.
+---
 
-- :seedling: I cultivate the wishful side-project of learning *Haskell* in conjunction with *(higher) category theory*.
+#### :microscope: Research Interests  
+My work focuses on the intersection of *differential geometry*, *higher structures*, and *mathematical physics*.  
+I am particularly interested in:  
+- **Multisymplectic manifolds**,  
+- **Symmetries** in geometry and physics, and  
+- **Algebraic structures up to homotopy**, with a broad and interdisciplinary perspective.  
 
-- :mailbox: How to reach me: [www.antoniomiti.it](https://www.antoniomiti.it/)
+---
 
--
--
+#### :computer: Technical Skills  
+I have foundational[^1] experience in:  
+- **Object-oriented programming** (*C++, Java*), and  
+- **High-performance computing** (*CUDA*).  
 
-- :dart: I will be on the job market from February 2026.
+---
 
+#### :seedling: Side Projects  
+I plan to dive into *Haskell* and explore its applications to *(higher) category theory*.  
 
+---
 
+#### :mailbox: Get in Touch  
+- **Website**: [www.antoniomiti.it](https://www.antoniomiti.it/)  
+- **Job Market**: I will be available starting **February 2026**.  
 
+---
 
-[^1]: i.e. at the level of master degree courses. 
+[^1]: Equivalent to the level of coursework during my master’s degree.
 
+ 
 <!--
 **MasterToninus/MasterToninus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
